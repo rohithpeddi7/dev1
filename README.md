@@ -1,3 +1,3 @@
 # First Trial
 
-I am very stoked to explore Git
+I am very stoked to explore Git!
